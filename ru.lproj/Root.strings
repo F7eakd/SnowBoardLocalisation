@@ -1,0 +1,6 @@
+ICON_SETTINGS = "Настройки иконок";	
+ENABLED = "Включено";	
+SELECT_THEME = "Выберите тему...";	
+ICON_OPTIONS = "Настройки иконок...";	
+FOLLOW_SPARK = "Подписаться на @SparkDev_";	
+FOLLOW_DENNIS = "Подписаться на @DennisBednarz";

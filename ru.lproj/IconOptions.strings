@@ -1,0 +1,9 @@
+  CUSTOM_CORNER_RADIUS = "Радиус угла";
+CUSTOM_ICON_SCALE = "Масштаб иконок";
+HIDE_LABELS = "Скрыть названия приложений";
+HIDE_LABEL_DOTS = "Скрыть "синюю точку" обновлений ";
+HIDE_ICON_TOUCH_OVERLAYS = "Скрыть наложение при нажатии на иконку";
+FORCE_LEGACY = "Принуждённо включить Legacy совместимость";
+CLEAR_ALTERNATIVE_ICONS = "Очистить альтернативыне икноки";
+FORCE_REFRESH = "Принужденное обновление иконок";
+ICON_OPTIONS = "Опции иконок";
